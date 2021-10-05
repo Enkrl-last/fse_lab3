@@ -1,3 +1,3 @@
-import module_a_dev
+import module_a.py
 import module_b.py
 
